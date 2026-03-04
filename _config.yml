@@ -1,0 +1,20 @@
+title: "M. Srinithi | Resume"
+description: "BBA LLB (Hons) — Legal Research • Drafting • Mooting"
+theme: jekyll-theme-cayman
+
+# Optional: make links nicer
+permalink: pretty
+
+# If your repo is NOT username.github.io, set baseurl like "/repo-name"
+baseurl: ""
+url: "https://YOURUSERNAME.github.io"
+
+# Basic identity
+author:
+  name: "M. Srinithi"
+  email: "126118030@sastra.ac.in"
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
